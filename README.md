@@ -28,5 +28,5 @@ you can upload your own forums to the website soon.
   ![slackrr games hehehe](https://github.com/repositoryrepos/Roblox-ui-menu-website/blob/main/images/slackrr.jpeg)
   play 315 unblocked games online for free!
 # Other stuff
-![github page follow me plz!](https://github.com/repositoryrepos/Roblox-ui-menu-website/blob/main/images/github.jpeg)
+![github page follow me plz!](https://github.com/repositoryrepos/Roblox-ui-menu-website/blob/main/images/github.png)
 ![dum stpid idoit noob waving at you stupidly Banner](https://github.com/repositoryrepos/Roblox-ui-menu-website/blob/main/images/dumb-noob.jpeg)
