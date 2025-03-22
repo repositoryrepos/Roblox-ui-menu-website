@@ -27,3 +27,11 @@ footer,img{
   width:40px;
   height:80px;
 }
+.playNOW{
+  background-color: green;
+  border-color: darkgreen;
+  border: 5px solid;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
