@@ -33,6 +33,6 @@ you can upload your own forums to the website soon.
   - ovo
   - 1v1lol 
 # Other stuff
-  ![github page follow me plz[](https://github.com/repositoryrepos/Roblox-ui-menu-website/blob/main/images/github.png)](https://github.com/repositoryrepos)
+  ![[](https://github.com/repositoryrepos/Roblox-ui-menu-website/blob/main/images/github.png)](https://github.com/repositoryrepos)
 
 ![dum stpid idoit noob waving at you stupidly Banner](https://github.com/repositoryrepos/Roblox-ui-menu-website/blob/main/images/dumb-noob.jpeg)
