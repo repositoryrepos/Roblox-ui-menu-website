@@ -13,11 +13,13 @@ you can upload your own forums to the website soon.
 
 # UPDATES
 ## Version 1
-- 2012 roblox main page will videos and links related to roblox
+
+## 2012
+roblox main page will videos and links related to roblox
 - connects to the github page here
-- fake login (DONT PUT UR ROBLOX INFO!)
+  ## fake login (DONT PUT UR ROBLOX INFO!)
   the login is like ur own account that exists only on THIS Website.
   the info isnt stored or anything, check source code if ur not sure.
   more like a cookie if anything.
-- FORUMS!!
+  ## FORUMS!!
   upload your very own forums! pls be respectful and dont be weird. i dont want to have to remove them T-T
