@@ -1,11 +1,11 @@
-body{
-  
+body {
+  background-image: linear-gradient(#ffffff, #cecece);
 }
 .header{
-  
+    background-image: linear-gradient(#101d3a, #11264d);
 }
 .subheader{
-  
+      background-image: linear-gradient(#3f5d83, #3a5378);
 }
 main{
   
@@ -14,8 +14,16 @@ a{
   
 }
 button{
-  
+  border: 5px solid;
+  border-style: solid;
+  border-color: #74a3ff;
+  border-radius: 5%;
+  background-image: linear-gradient(#3a72f9, #2852bc);
 }
 footer{
-  
+      background-image: linear-gradient(#b9b9b9, #828282);
+}
+footer,img{
+  width:40px;
+  height:80px;
 }
