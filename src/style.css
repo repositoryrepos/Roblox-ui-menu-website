@@ -59,6 +59,7 @@ a:link {
 }
 footer{
       background-image: linear-gradient(#b9b9b9, #828282);
+  height:120px;
 }
 .footer-img{
   width: 40px;
