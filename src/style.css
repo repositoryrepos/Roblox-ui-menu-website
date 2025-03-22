@@ -4,7 +4,7 @@ body {
 .header{
     background-image: linear-gradient(#101d3a, #11264d);
 }
-.subheader{
+.sub-header{
       background-image: linear-gradient(#3f5d83, #3a5378);
 }
 main{
