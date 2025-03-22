@@ -25,7 +25,7 @@ you can upload your own forums to the website soon.
   upload your very own forums! pls be respectful and dont be weird. i dont want to have to remove them T-T
 
   # slackrr
-  [![](https://github.com/repositoryrepos/Roblox-ui-menu-website/blob/main/images/slackrr.jpeg)](https://ublockedslackrr.github.io./)
+  [![](https://github.com/slackrr-co/slackrr/blob/main/images/index/logo-banner.png)](https://ublockedslackrr.github.io./)
 
   
   - play 315 unblocked games online for free!
