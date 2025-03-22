@@ -50,6 +50,10 @@ a:link {
   text-decoration: none;
   color: #fff;
 }
+a:visited {
+  text-decoration: none;
+  color: #fff;
+}
 .play-button{
   border: 2px solid;
   border-style: solid;
