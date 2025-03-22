@@ -12,8 +12,9 @@ body {
 main{
   
 }
-a{
-  
+a:link {
+  text-decoration: none;
+  color: #fff;
 }
 .play-button{
   border: 2px solid;
