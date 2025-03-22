@@ -23,7 +23,7 @@ button{
 footer{
       background-image: linear-gradient(#b9b9b9, #828282);
 }
-footer,img{
+.footer-img{
   width:40px;
   height:80px;
 }
