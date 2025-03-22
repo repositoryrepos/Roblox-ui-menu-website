@@ -25,7 +25,7 @@ you can upload your own forums to the website soon.
 - roblox main page will videos and links related to roblox
 - connects to the github page here
   ## fake login (DONT PUT UR ROBLOX INFO!)
-  the login is like ur own account that exists only on THIS Website.
+  the login is like ur own account that exists only on **THIS** Website.
   the info isnt stored or anything, check source code if ur not sure.
   more like a cookie if anything.
   ## FORUMS!!
