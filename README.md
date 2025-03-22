@@ -23,3 +23,5 @@ you can upload your own forums to the website soon.
   more like a cookie if anything.
   ## FORUMS!!
   upload your very own forums! pls be respectful and dont be weird. i dont want to have to remove them T-T
+
+![dum stpid idoit noob waving at you stupidly Banner](https://github.com/repositoryrepos/Roblox-ui-menu-website/blob/main/images/dumb-noob.jpeg)
